@@ -38,7 +38,6 @@
 <p>
 <img src="https://img.shields.io/badge/-Vue%20-%2320232a?style=for-the-badge&logo=vue.js">
 <img src="https://img.shields.io/badge/-Figma%20-purple?style=for-the-badge&logo=figma">
-<img src="https://img.shields.io/badge/-firebase%20-black?style=for-the-badge&logo=firebase">
 <img src="https://img.shields.io/badge/-Nextjs%20-grey?style=for-the-badge&logo=next.js">
 <img src="https://img.shields.io/badge/-Redux%20-white?style=for-the-badge&logo=redux&logoColor=purple">
 <img src="https://img.shields.io/badge/-gatsby%20-white?style=for-the-badge&logo=gatsby&logoColor=purple">
@@ -49,7 +48,7 @@
 ## Recent Articles📖
 
 <!-- BLOG-POST-LIST:START -->
-- 
+
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://leerenjie.hashnode.dev/)
