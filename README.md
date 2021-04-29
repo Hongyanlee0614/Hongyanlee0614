@@ -1,14 +1,11 @@
 <img src="https://github.com/Hongyanlee0614/Hongyanlee0614/blob/main/images/peofile.png" width="100%">
 <p align="center" >
   <samp>
-    My name is <em>Lee Hong Yan</em>. I am currently learning Fullstack Web Development
-    <br/> Artificial Intelligence Enthusiast!! I Love the impact of AI 
+    My name is <em>Lee Hong Yan</em>. I am currently a second year data science student in University of Malaya
+    <br/> Data Science Enthusiast!! I Love the impact of AI 
     <br/> Love building websites from scratch 
-    <br/> Writing articles on Hahsnode!
-    <br/> Love the feeling when my PR is merged as an Open Source Contributor
-    <br/> Fulltime Diploma Student at Asia Pacific University specialized in Software Engineering...
     <br/> Love sports (especially badminton), music, and drums
-    <br/> Continuously self learning, wanting to impact the community and hopefully the world
+    <br/> Continuously self learning, wishing to impact the community and hopefully the world, evetually
   </samp>
 </p><br/>
 
@@ -52,11 +49,7 @@
 ## Recent Articles📖
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub for Beginners. What is it & How to use it?](https://leerenjie.hashnode.dev/github-for-beginners)
-- [Day 6: Growing with Open Source](https://leerenjie.hashnode.dev/growing-with-open-source)
-- [Top 5 Reasons Why I Blog](https://leerenjie.hashnode.dev/top-5-reasons-why-i-blog)
-- [Day 5: Building an Effective Developer Portfolio](https://leerenjie.hashnode.dev/building-an-effective-developer-portfolio)
-- [Day 4: Several Revenue Models for Software Engineers](https://leerenjie.hashnode.dev/several-revenue-models-for-software-engineers)
+- 
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://leerenjie.hashnode.dev/)
