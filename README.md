@@ -1,9 +1,4 @@
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tr><td align="center">
-<img src="https://github.com/Hongyanlee0614/Hongyanlee0614/blob/main/images/hongyan.jpg" width="100%">
-</td></tr>
-</table>
-<p align="center" >
+<span style="display:block;text-align:center">!<img src="https://github.com/Hongyanlee0614/Hongyanlee0614/blob/main/images/hongyan.jpg" width="100%"></span>
   <samp>
     My name is <em>Lee Hong Yan</em>. I am currently a second year data science student in University of Malaya
     <br/> Data Science Enthusiast!! I Love the impact of AI 
