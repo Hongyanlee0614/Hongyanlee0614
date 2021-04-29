@@ -1,5 +1,8 @@
-<a href="https://github.com/Hongyanlee0614/Hongyanlee0614/blob/main/images/hongyan.jpg" style="text-align: center">
-<img src="https://github.com/Hongyanlee0614/Hongyanlee0614/blob/main/images/hongyan.jpg" align="center"></a>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td align="center">
+<img src="https://github.com/Hongyanlee0614/Hongyanlee0614/blob/main/images/hongyan.jpg">
+</td></tr>
+</table>
 <p align="center" >
   <samp>
     My name is <em>Lee Hong Yan</em>. I am currently a second year data science student in University of Malaya
