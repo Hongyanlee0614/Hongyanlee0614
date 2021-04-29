@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="https://github.com/Hongyanlee0614/Hongyanlee0614/blob/main/images/hongyan.jpg" width="50%" height="300px"></p>
+<p style="margin-left:auto; margin-right:auto;"><img src="https://github.com/Hongyanlee0614/Hongyanlee0614/blob/main/images/hongyan.jpg" width="50%" height="300px"></p>
 <p align="center" >
   <samp>
     My name is <em>Lee Hong Yan</em>. I am currently a second year data science student in University of Malaya
