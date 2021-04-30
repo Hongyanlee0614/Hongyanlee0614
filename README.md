@@ -2,8 +2,7 @@
  <p align="center" >
   <samp>
     My name is <em>Lee Hong Yan</em>. I am currently a second year data science student in University of Malaya
-    <br/> Data Science Enthusiast!! I Love the impact of AI 
-    <br/> Love building websites from scratch 
+    <br/> Data Science enthusiast who loves to play with data 
     <br/> Love sports (especially badminton), music, and drums
     <br/> Continuously self learning, wishing to impact the community and hopefully the world, evetually
   </samp>
