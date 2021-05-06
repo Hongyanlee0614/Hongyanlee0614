@@ -49,7 +49,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles]()
+<!-- ▶ [...more blog articles]() -->
 
 <hr/>
 
