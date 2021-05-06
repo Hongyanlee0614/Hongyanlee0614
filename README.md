@@ -19,26 +19,31 @@
 
 ## Tools/Frameworks/Technologies 🛠
 <p float="left">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" >
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" >
+<img src="https://img.shields.io/badge/-SQL%20-grey?style=for-the-badge&logo=SQL" >
+<img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" >
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" >   
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" > 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" > 
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react" >   
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react" >
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" >
 <img src="https://img.shields.io/badge/-Nodejs%20-%23323330?style=for-the-badge&logo=Node.js&logoColor=green">
-<img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >  
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" >   
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" >   
 <img src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=Visual-studio-code&logoColor=white" > 
 <img src="https://img.shields.io/badge/-JSON%20-02569B?style=for-the-badge&logo=json&logoColor=white">
-<img src="https://img.shields.io/badge/-Vue%20-%2320232a?style=for-the-badge&logo=vue.js">
-<img src="https://img.shields.io/badge/-Figma%20-purple?style=for-the-badge&logo=figma">
-<img src="https://img.shields.io/badge/-Nextjs%20-grey?style=for-the-badge&logo=next.js">
-<img src="https://img.shields.io/badge/-Redux%20-white?style=for-the-badge&logo=redux&logoColor=purple">
-<img src="https://img.shields.io/badge/-SQL%20-grey?style=for-the-badge&logo=SQL">
-<img src="https://img.shields.io/badge/-MySQL%20-white?style=for-the-badge&logo=mysql&logoColor=black">
-<img src="https://badges.aleen42.com/src/java.svg">
+<img src="https://img.shields.io/badge/-Vue%20-%2320232a?style=for-the-badge&logo=vue.js" >
+<img src="https://img.shields.io/badge/-Figma%20-purple?style=for-the-badge&logo=figma" >
+<img src="https://img.shields.io/badge/-Nextjs%20-grey?style=for-the-badge&logo=next.js" >
+<img src="https://img.shields.io/badge/-Redux%20-white?style=for-the-badge&logo=redux&logoColor=purple" >
+<img src="https://img.shields.io/badge/-MySQL%20-white?style=for-the-badge&logo=mysql&logoColor=black" >
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" >
 </p>
 
-## Recent Articles📖
+<!-- ## Recent Articles📖 -->
 
 <!-- BLOG-POST-LIST:START -->
 
