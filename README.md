@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" >   
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" > 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" > 
-<img src="https://img.shields.io/badge/-MongoDB%20-1AA121?style=for-the-badge&logo=mongodb&logoColor=green">
-<img src="https://img.shields.io/badge/-Expressjs%20-%23323330?style=for-the-badge&logo=express">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react" >   
 <img src="https://img.shields.io/badge/-Nodejs%20-%23323330?style=for-the-badge&logo=Node.js&logoColor=green">
 <img src="https://img.shields.io/badge/-python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" >  
@@ -39,7 +37,6 @@
 <img src="https://img.shields.io/badge/-Figma%20-purple?style=for-the-badge&logo=figma">
 <img src="https://img.shields.io/badge/-Nextjs%20-grey?style=for-the-badge&logo=next.js">
 <img src="https://img.shields.io/badge/-Redux%20-white?style=for-the-badge&logo=redux&logoColor=purple">
-<img src="https://img.shields.io/badge/-gatsby%20-white?style=for-the-badge&logo=gatsby&logoColor=purple">
 <img src="https://img.shields.io/badge/-SQL%20-grey?style=for-the-badge&logo=SQL">
 <img src="https://img.shields.io/badge/-MySQL%20-white?style=for-the-badge&logo=mysql&logoColor=black">
 </p>
